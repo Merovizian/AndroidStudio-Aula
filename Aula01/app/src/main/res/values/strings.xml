@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Aula01</string>
+    <string name="faculdade">Ifes - Institudo do ES</string>
+    <string name="aula_atual">Aula 03</string>
+    <string name="usuario">Eric Giobini Micaela</string>
+
 </resources>
